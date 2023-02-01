@@ -13,3 +13,10 @@
         flex-direction: column;
     }
 }
+@media screen and (max-width:576px){
+    .mod-test .carousel-item img{
+        height: 400px !important;
+        width: 250px !important;
+    }
+}
+
